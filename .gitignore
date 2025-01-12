@@ -1,0 +1,5 @@
+*.o
+*.a
+firmware.bin
+firmware.elf
+ldscript_DA14531.lds
